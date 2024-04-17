@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484023789856",
+    "project_id": "ecomanila-hackathon2024",
+    "storage_bucket": "ecomanila-hackathon2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484023789856:android:516129b6ad3dd81bffcf45",
+        "android_client_info": {
+          "package_name": "com.example.ecomanila"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPchUhzCXSSFO6m0lWhNpBspIX7minBSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
