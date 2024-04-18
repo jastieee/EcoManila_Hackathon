@@ -1,6 +1,5 @@
-# ecomanila
-
-A new Flutter project.
+# EcoManila Rewards App
+EcoManila Rewards is a Recycle Rewards App designed to address the challenges of low recycling participation, illegal dumping, lack of awareness, and limited community engagement among Manila residents. By implementing a task-based reward system, the app aims to incentivize residents to actively collect and recycle waste, contributing to environmental restoration efforts and fostering a cleaner ecosystem.
 
 ## Getting Started
 
